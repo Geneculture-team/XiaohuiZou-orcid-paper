@@ -11,12 +11,12 @@ Fundamental law of Information: Proved by Double Matrices on Numbers and Charact
 Ecological Characteristics of Information and Its Scientific Research,Conference FIS 2017: The Seventh International Conference on the Foundations of Information Science, in IS4SI-2017 .
 Understanding: How to Resolve Ambiguity,2nd International Conference on Intelligence Science (ICIS) 2017-10 | conference-paper,DOI: 10.1007/978-3-319-68121-4\_36 .
 Bilingual Processing Method and Its Principle on Entropy 2015-11-15 | conference-abstract. 
-Basic Law of Information: Fundamental Theory of Generalized Bilingual Processing, ISIS Summit Vienna 2015 THE INFORMATION SOCIETY AT THE CROSSROADS 2015-06 | conference-abstract,SOURCE-WORK-ID: 0602172206942-4.
-Formal Chinese Room 2014 | patent.
-Collaborative Intelligent Computing System: Theoretical Model with Its Application,AAAS Annual Meeting 2012-02 | conference-abstract.
-Value-Taking and Confidence-Building of Language,AAAS Annual Meeting 2012-02 | conference-abstract.
-Value-Taking and Confidence-Building of Language: Computer-Aided Instruction and Analysis on the Object of Study in General Linguistics,Language and Value (International Conference on Values in Globalization and Change)2011-08 | conference-paper SOURCE-WORK-ID: 0602172206943-11.
-A Brand-New Machine Translation Strategy 2011 | SOURCE-WORK-ID: 0602172206943-12.
-University Education and Management "Overlapping" Model2011 | conference-paper.
-The Meaning of the Information Model on Knowledge Management in University 2010-08 | conference-paper.
-Intelligence means information processing VII International Ontology Congress,Real or Virtual: from Plato's Cave to Internet 2006-10 | conference-paper.
+Basic Law of Information: Fundamental Theory of Generalized Bilingual Processing, ISIS Summit Vienna 2015 THE INFORMATION SOCIETY AT THE CROSSROADS 2015-06 | conference-abstract,SOURCE-WORK-ID: 0602172206942-4 .
+Formal Chinese Room 2014 | patent .
+Collaborative Intelligent Computing System: Theoretical Model with Its Application,AAAS Annual Meeting 2012-02 | conference-abstract .
+Value-Taking and Confidence-Building of Language,AAAS Annual Meeting 2012-02 | conference-abstract .
+Value-Taking and Confidence-Building of Language: Computer-Aided Instruction and Analysis on the Object of Study in General Linguistics,Language and Value (International Conference on Values in Globalization and Change)2011-08 | conference-paper SOURCE-WORK-ID: 0602172206943-11 .
+A Brand-New Machine Translation Strategy 2011 | SOURCE-WORK-ID: 0602172206943-12 .
+University Education and Management "Overlapping" Model2011 | conference-paper  .
+The Meaning of the Information Model on Knowledge Management in University 2010-08 | conference-paper .
+Intelligence means information processing VII International Ontology Congress,Real or Virtual: from Plato's Cave to Internet 2006-10 | conference-paper .
